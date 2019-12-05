@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.da005ed0.chunk.css",
-    "main.js": "/static/js/main.436dc15f.chunk.js",
-    "main.js.map": "/static/js/main.436dc15f.chunk.js.map",
+    "main.js": "/static/js/main.9d9d157f.chunk.js",
+    "main.js.map": "/static/js/main.9d9d157f.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.6f94d68d.js",
     "runtime~main.js.map": "/static/js/runtime~main.6f94d68d.js.map",
-    "static/js/2.d99f1b97.chunk.js": "/static/js/2.d99f1b97.chunk.js",
-    "static/js/2.d99f1b97.chunk.js.map": "/static/js/2.d99f1b97.chunk.js.map",
+    "static/js/2.e9f1b5ad.chunk.js": "/static/js/2.e9f1b5ad.chunk.js",
+    "static/js/2.e9f1b5ad.chunk.js.map": "/static/js/2.e9f1b5ad.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1e77b618d35717785bcd07baab2a6ad1.js": "/precache-manifest.1e77b618d35717785bcd07baab2a6ad1.js",
+    "precache-manifest.98c12f79c3d00d98c01ee3b8ab419adb.js": "/precache-manifest.98c12f79c3d00d98c01ee3b8ab419adb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.da005ed0.chunk.css.map": "/static/css/main.da005ed0.chunk.css.map",
     "static/media/avatar.jpg": "/static/media/avatar.467fcd68.jpg",
@@ -16,7 +16,7 @@
     "static/media/b2.jpg": "/static/media/b2.9d1a8f63.jpg",
     "static/media/b3.jpg": "/static/media/b3.25f85a61.jpg",
     "static/media/bane.png": "/static/media/bane.0dfecdab.png",
-    "static/media/bg.jpg": "/static/media/bg.e5241971.jpg",
+    "static/media/bg.jpg": "/static/media/bg.ecee3b8d.jpg",
     "static/media/bg2.jpg": "/static/media/bg2.84378183.jpg",
     "static/media/bg3.jpg": "/static/media/bg3.e76de24b.jpg",
     "static/media/capa.png": "/static/media/capa.bfb3398b.png",
@@ -36,6 +36,7 @@
     "static/media/studio-2.jpg": "/static/media/studio-2.76e2987e.jpg",
     "static/media/studio-3.jpg": "/static/media/studio-3.1d5451ce.jpg",
     "static/media/studio-4.jpg": "/static/media/studio-4.e064d090.jpg",
-    "static/media/studio-5.jpg": "/static/media/studio-5.ef5c30ea.jpg"
+    "static/media/studio-5.jpg": "/static/media/studio-5.ef5c30ea.jpg",
+    "static/media/voluntariado.jpg": "/static/media/voluntariado.7796fecb.jpg"
   }
 }
